@@ -16,8 +16,8 @@
 
 ```yaml
 role: Agentic AI Engineering Student @ SMIT
-learning: [Python, OOP, Backend Development, Prompt & Context Engineering]
-building_with: Spec-Driven Development
+learning: [Python, OOP, Backend Development, Prompt & Context Engineering, OpenAI Agents SDK]
+building_with: Spec-Driven Development, n8n automation
 looking_for: AI / Agentic AI & backend collaboration, internships
 fun_fact: "Still early in the journey, but learning fast and shipping projects along the way"
 contact: bk8615080@gmail.com
@@ -26,7 +26,7 @@ contact: bk8615080@gmail.com
 ## 🚀 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=py,fastapi,git,github,vscode,linux,openai" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,git,github,vscode,linux,openai,n8n" />
 </p>
 
 ## 🏆 GitHub Trophies
