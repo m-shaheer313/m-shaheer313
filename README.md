@@ -16,9 +16,9 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-**🎓 Agentic AI Engineering Student @ SMIT**
+**🎓 Agentic AI Engineering Student @ SMIT** — Module 1 complete, Module 2 in progress
 
 I build backend systems and AI agents, and I ship what I learn instead of letting it sit in notes.
 
@@ -30,9 +30,6 @@ I build backend systems and AI agents, and I ship what I learn instead of lettin
 
 📫 **Reach me:** [bk8615080@gmail.com](mailto:bk8615080@gmail.com)
 
-</td>
-<td width="40%" valign="top">
-
 **🌱 Currently Learning**
 ![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=flat-square&logo=openai&logoColor=white)
 
@@ -43,6 +40,13 @@ I build backend systems and AI agents, and I ship what I learn instead of lettin
 ![Backend Dev](https://img.shields.io/badge/Backend%20Development-2E7D32?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20%26%20Context%20Engineering-8A2BE2?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square)
+![Opencode](https://img.shields.io/badge/Opencode-2E2E2E?style=flat-square)
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Coding animation"/>
 
 </td>
 </tr>
