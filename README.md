@@ -10,7 +10,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-shaheer313&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" width="100%"/>
 </div>
 
-<img src="https://github.com/m-shaheer313/m-shaheer313/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+<div align="center">
+
+```
+$ whoami
+```
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Muhammad+Shaheer;%24+status+--current;Learning+the+OpenAI+Agents+SDK+%F0%9F%9A%80;%24+modules+--completed;Module+1%3A+Claude+Code+%2B+Opencode+%E2%9C%94;%24+echo+%22let's+build+something%22&font=Fira+Code&center=true&width=600&height=200&color=39FF14&vCenter=true&size=20&pause=1200&multiline=true&repeat=true" />
+
+</div>
 
 ## 🙋‍♂️ About Me
 
