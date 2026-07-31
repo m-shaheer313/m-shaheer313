@@ -16,7 +16,7 @@
 $ whoami
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Muhammad+Shaheer;%24+status+--current;Learning+the+OpenAI+Agents+SDK+%F0%9F%9A%80;%24+modules+--completed;Module+1%3A+Python%2C+OOP%2C+Backend+Dev%2C+Prompt+Eng%2C+n8n%2C+Claude+Code%2C+Opencode+%E2%9C%94;%24+echo+%22let's+build+something%22&font=Fira+Code&center=true&width=600&height=200&color=39FF14&vCenter=true&size=18&pause=1200&multiline=true&repeat=true" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Muhammad+Shaheer;%24+status+--current;Learning+the+OpenAI+Agents+SDK+%F0%9F%9A%80;%24+modules+--completed;Module+1+echo+%22let's+build+something%22&font=Fira+Code&center=true&width=600&height=200&color=39FF14&vCenter=true&size=18&pause=1200&multiline=true&repeat=true" />
 
 </div>
 
