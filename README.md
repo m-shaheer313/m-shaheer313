@@ -14,14 +14,39 @@
 
 ## 🙋‍♂️ About Me
 
-```yaml
-role: Agentic AI Engineering Student @ SMIT
-learning: [Python, OOP, Backend Development, Prompt & Context Engineering, OpenAI Agents SDK]
-building_with: Spec-Driven Development, n8n automation
-looking_for: AI / Agentic AI & backend collaboration, internships
-fun_fact: "Still early in the journey, but learning fast and shipping projects along the way"
-contact: bk8615080@gmail.com
-```
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**🎓 Agentic AI Engineering Student @ SMIT**
+
+I build backend systems and AI agents, and I ship what I learn instead of letting it sit in notes.
+
+🔭 **Building with:** Spec-Driven Development · n8n automation
+
+🤝 **Looking for:** AI / Agentic AI & backend collaboration, internships
+
+⚡ **Fun fact:** Still early in the journey, but learning fast and shipping projects along the way
+
+📫 **Reach me:** [bk8615080@gmail.com](mailto:bk8615080@gmail.com)
+
+</td>
+<td width="40%" valign="top">
+
+**🌱 Currently Learning**
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=flat-square&logo=openai&logoColor=white)
+
+**✅ Already Learned**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=flat-square)
+![Backend Dev](https://img.shields.io/badge/Backend%20Development-2E7D32?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20%26%20Context%20Engineering-8A2BE2?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ## 🚀 Tech Stack
 
